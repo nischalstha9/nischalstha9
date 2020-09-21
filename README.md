@@ -37,6 +37,7 @@
 
 ### 📽 Some Personal Django Projects
 <!-- BLOG-POST-LIST:START -->
+- [Bus Ticket Booking System](https://nischalstha9.pythonanywhere.com)
 - [Full Featured Blogging Website](https://inischal.pythonanywhere.com)
 - [Khulakhabar News Aggregator](https://khulakhabar.herokuapp.com)
 - [ToDo using Django and Jquery](https://garnu6.herokuapp.com)
@@ -44,7 +45,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nischalstha9)](https://github.com/nischalstha9/github-readme-stats)
+[![Nischal's github stats](https://github-readme-stats.vercel.app/api?username=nischalstha9)](https://github.com/nischalstha9/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nischalstha9&layout=compact)](https://github.com/nischalstha9/github-readme-stats)
 
 [website]: https://nischalstha9.github.io

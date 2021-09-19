@@ -37,6 +37,7 @@
 
 ### 📽 Some Personal Django Projects
 <!-- BLOG-POST-LIST:START -->
+- [Expense Tracker](https://aakogako.herokuapp.com)
 - [Inventory Management System](https://surendra095.pythonanywhere.com)
 - [Bus Ticket Booking System](https://nischalstha9.pythonanywhere.com)
 - [Full Featured Blogging Website](https://inischal.pythonanywhere.com)

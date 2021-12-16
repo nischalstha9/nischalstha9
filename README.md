@@ -2,8 +2,9 @@
 
 ## I'm a Developer who loves always learning somthing new!
 -  I’m currently learning Data Science with my accomplishment on Django, Python.
+-  I am extending my knowledge on backend technologies learning DevOps.
 -  I’m looking to collaborate with other content creators.
--  2021 Goals: Work on innovative idea.
+-  2022 Goals: Work on innovative idea.
 -  Beside Coding, I love Graphics designing and knowing about new techs and when outdoor I love exploring new places.
 
 ### Connect with me:

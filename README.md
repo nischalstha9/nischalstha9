@@ -1,7 +1,8 @@
-### Hi there, I'm Nischal Shrestha - a Developer and Graphics Designer by hobby. 😊👋
+# Hi there, I'm Nischal Shrestha - a Developer by hobby. 😊
 
 ## I'm a Developer who loves always learning somthing new!
--  I’m currently learning Data Science with my accomplishment on Django, Python.
+-  I have very good knowledge of Python and Django along with Django Rest Framework.
+-  I have basic knowledge of frontend technology as React too.
 -  I am extending my knowledge on backend technologies learning DevOps.
 -  I’m looking to collaborate with other content creators.
 -  2022 Goals: Work on innovative idea.
@@ -22,8 +23,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/django/django.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -31,22 +32,13 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
+<img align="left" alt="HTML5" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
+<img align="left" alt="HTML5" width="26px" src="https://devopedia.org/images/article/403/8230.1645614864.png" />
 
 <br />
 <br />
 
-
-### 📽 Some Personal Django Projects
-<!-- BLOG-POST-LIST:START -->
-- [Expense Tracker](https://aakogako.herokuapp.com)
-- [Inventory Management System](https://surendra095.pythonanywhere.com)
-- [Bus Ticket Booking System](https://nischalstha9.pythonanywhere.com)
-- [Full Featured Blogging Website](https://inischal.pythonanywhere.com)
-- [Khulakhabar News Aggregator](https://khulakhabar.herokuapp.com)
-- [ToDo using Django and Jquery](https://garnu6.herokuapp.com)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 [![Nischal's github stats](https://github-readme-stats.vercel.app/api?username=nischalstha9)](https://github.com/nischalstha9/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nischalstha9&layout=compact)](https://github.com/nischalstha9/github-readme-stats)

@@ -1,4 +1,4 @@
-# Hi there, I'm Nischal | Backend Enthusiast by hobby.
+# Hi there, I'm Nischal | Backend Enthusiast by hobby
 ## Perks
 - Proficient knowledge of Python
 - Skilled to develop websites with Django and its packages
@@ -12,7 +12,7 @@
 > - Backend Development
 > - DevOps
 
-> 2022 Goals: Work on innovative idea.
+**2022 Goals: Work on innovative idea.**
 
 ### Connect with me:
 

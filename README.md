@@ -8,9 +8,9 @@
 - Experienced with Docker
 - Have knowledge of Kubernetes
 
-> ## Interests
-> - Backend Development
-> - DevOps
+## Interests
+ - Backend Development
+ - DevOps
 
 **2022 Goals: Work on innovative idea.**
 

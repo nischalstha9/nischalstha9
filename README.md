@@ -1,9 +1,9 @@
 # Hi there, I'm Nischal | Backend Enthusiast by hobby
 ## Perks
 - Proficient knowledge of Python
+- Linux friendly
 - Skilled to develop websites with Django and its packages
 - Experience working with React JS
-- Linux friendly
 - Can create CICD pipelines with Jenkins and Github Actions
 - Experienced with Docker
 - Have knowledge of Kubernetes
@@ -12,7 +12,7 @@
  - Backend Development
  - DevOps
 
-**2022 Goals: Work on innovative idea.**
+**2023 Goals: Work on innovative idea.**
 
 ### Connect with me:
 

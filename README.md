@@ -2,11 +2,12 @@
 ## Perks
 - Proficient knowledge of Python
 - Linux friendly
-- Skilled to develop websites with Django and its packages
+- Skilled to develop websites with Django and Django Rest Framework
 - Experience working with React JS
 - Can create CICD pipelines with Jenkins and Github Actions
 - Experienced with Docker
 - Have knowledge of Kubernetes
+- AWS Cloud friendly
 
 ## Interests
  - Backend Development
@@ -40,6 +41,7 @@
 <img align="left" alt="Jenkins" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://pngset.com/images/kube-kubernetes-logo-symbol-trademark-star-symbol-emblem-transparent-png-1496896.png" />
+<img align="left" alt="AWS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" />
 
 <br />
 <br />
